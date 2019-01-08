@@ -1,0 +1,50 @@
+/* Google Search */
+.RNNXgb { /* Search bar */
+    border-radius: 2px;
+}
+.kp-blk { /* "Knowledge panel" (large right info card) */
+    border-radius: 2px;
+}
+.kp-blk .img-brk { /* Knowledge panel images */
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+.H73aad { /* "Claim this knowledge panel" button */
+    border-radius: 2px;
+}
+.cv2VAd { /* Small top info cards relevant to search */
+    border-radius: 2px;
+}
+.qmv19b { /* Top stories */
+    border-radius: 2px;
+}
+.aajZCb { /* Autocomplete suggestions */
+    border-radius: 2px;
+}
+.emcav.emcat .RNNXgb { /* Search bar when an autocomplete word shows */
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+.sbct:first-child .suggestions-inner-container { /* Border above an autocomplete word */
+    border-top: 0px;
+}
+div.AEprdc.vk_c { /* Google Maps insert body */
+    border-radius: 2px;
+}
+#lu_map { /* Google Maps insert map */
+    border-top-left-radius: 2px !important;
+    border-top-right-radius: 2px !important;
+    /* Sorry for !important, unfortunately Google used inline styles here instead of an id selector :/ */;
+}
+.vk_c, .vk_cxp, #rhs .fIcnad { /* Privacy reminder */
+    border-radius: 2px;
+}
+
+
+/* Google Images */
+.zZ86of .Mw2I7 { /* Suggested keywords */
+    border-radius: 2px;
+}
+.gymTod.jKR4Ec { /* Suggested keywords thumbnails */
+    border-radius: 2px;
+}
