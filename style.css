@@ -2,6 +2,26 @@
 .RNNXgb { /* Search bar */
     border-radius: 2px;
 }
+.minidiv .RNNXgb { /* Search bar (when scrolling) */
+    border-radius: 2px;
+}
+.aajZCb { /* Autocomplete suggestions */
+    border-radius: 2px;
+}
+.minidiv .aajZCb { /* Autocomplete suggestions (when scrolling) */
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+.emcav.emcat .RNNXgb { /* Search bar when an autocomplete word shows */
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+.minidiv .Tg7LZd { /* Search icon in search bar (when scrolling) */
+    padding-right: 0px;
+}
+.sbct:first-child .suggestions-inner-container { /* Border above an autocomplete word */
+    border-top: 0px;
+}
 .kp-blk { /* "Knowledge panel" (large right info card) */
     border-radius: 2px;
 }
@@ -17,16 +37,6 @@
 }
 .qmv19b { /* Top stories */
     border-radius: 2px;
-}
-.aajZCb { /* Autocomplete suggestions */
-    border-radius: 2px;
-}
-.emcav.emcat .RNNXgb { /* Search bar when an autocomplete word shows */
-    border-bottom-left-radius: 2px;
-    border-bottom-right-radius: 2px;
-}
-.sbct:first-child .suggestions-inner-container { /* Border above an autocomplete word */
-    border-top: 0px;
 }
 div.AEprdc.vk_c { /* Google Maps insert body */
     border-radius: 2px;

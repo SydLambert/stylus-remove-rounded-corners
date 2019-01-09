@@ -1,52 +1,62 @@
 @-moz-document domain("google.com") {
-    /* Google Search */
-    .RNNXgb { /* Search bar */
-        border-radius: /*[[border-radius]]*/;
-    }
-    .kp-blk { /* "Knowledge panel" (large right info card) */
-        border-radius: /*[[border-radius]]*/;
-    }
-    .kp-blk .img-brk { /* Knowledge panel images */
-        border-top-left-radius: /*[[border-radius]]*/;
-        border-top-right-radius: /*[[border-radius]]*/;
-    }
-    .H73aad { /* "Claim this knowledge panel" button */
-        border-radius: /*[[border-radius]]*/;
-    }
-    .cv2VAd { /* Small top info cards relevant to search */
-        border-radius: /*[[border-radius]]*/;
-    }
-    .qmv19b { /* Top stories */
-        border-radius: /*[[border-radius]]*/;
-    }
-    .aajZCb { /* Autocomplete suggestions */
-        border-radius: /*[[border-radius]]*/;
-    }
-    .emcav.emcat .RNNXgb { /* Search bar when an autocomplete word shows */
-        border-bottom-left-radius: /*[[border-radius]]*/;
-        border-bottom-right-radius: /*[[border-radius]]*/;
-    }
-    .sbct:first-child .suggestions-inner-container { /* Border above an autocomplete word */
-        border-top: 0px;
-    }
-    div.AEprdc.vk_c { /* Google Maps insert body */
-        border-radius: /*[[border-radius]]*/;
-    }
-    #lu_map { /* Google Maps insert map */
-        border-top-left-radius: /*[[border-radius]]*/ !important;
-        border-top-right-radius: /*[[border-radius]]*/ !important;
-        /* Sorry for !important, unfortunately Google used inline styles here instead of an id selector :/ */;
-    }
-    .vk_c, .vk_cxp, #rhs .fIcnad { /* Privacy reminder */
-        border-radius: /*[[border-radius]]*/;
-    }
+  /* Google Search */
+  .RNNXgb { /* Search bar */
+    border-radius: /*[[border-radius]]*/;
+  }
+  .minidiv .RNNXgb { /* Search bar (when scrolling) */
+    border-radius: /*[[border-radius]]*/;
+  }
+  .aajZCb { /* Autocomplete suggestions */
+    border-radius: /*[[border-radius]]*/;
+  }
+  .minidiv .aajZCb { /* Autocomplete suggestions (when scrolling) */
+    border-bottom-left-radius: /*[[border-radius]]*/;
+    border-bottom-right-radius: /*[[border-radius]]*/;
+  }
+  .emcav.emcat .RNNXgb { /* Search bar when an autocomplete word shows */
+    border-bottom-left-radius: /*[[border-radius]]*/;
+    border-bottom-right-radius: /*[[border-radius]]*/;
+  }
+  .minidiv .Tg7LZd { /* Search icon in search bar (when scrolling) */
+    padding-right: 0px;
+  }
+  .sbct:first-child .suggestions-inner-container { /* Border above an autocomplete word */
+    border-top: 0px;
+  }
+  .kp-blk { /* "Knowledge panel" (large right info card) */
+    border-radius: /*[[border-radius]]*/;
+  }
+  .kp-blk .img-brk { /* Knowledge panel images */
+    border-top-left-radius: /*[[border-radius]]*/;
+    border-top-right-radius: /*[[border-radius]]*/;
+  }
+  .H73aad { /* "Claim this knowledge panel" button */
+    border-radius: /*[[border-radius]]*/;
+  }
+  .cv2VAd { /* Small top info cards relevant to search */
+    border-radius: /*[[border-radius]]*/;
+  }
+  .qmv19b { /* Top stories */
+    border-radius: /*[[border-radius]]*/;
+  }
+  div.AEprdc.vk_c { /* Google Maps insert body */
+    border-radius: /*[[border-radius]]*/;
+  }
+  #lu_map { /* Google Maps insert map */
+    border-top-left-radius: /*[[border-radius]]*/ !important;
+    border-top-right-radius: /*[[border-radius]]*/ !important;
+    /* Sorry for !important, unfortunately Google used inline styles here instead of an id selector :/ */;
+  }
+  .vk_c, .vk_cxp, #rhs .fIcnad { /* Privacy reminder */
+    border-radius: /*[[border-radius]]*/;
+  }
 
 
-    /* Google Images */
-    .zZ86of .Mw2I7 { /* Suggested keywords */
-        border-radius: /*[[border-radius]]*/;
-    }
-    .gymTod.jKR4Ec { /* Suggested keywords thumbnails */
-        border-radius: /*[[border-radius]]*/;
-    }
+  /* Google Images */
+  .zZ86of .Mw2I7 { /* Suggested keywords */
+    border-radius: /*[[border-radius]]*/;
+  }
+  .gymTod.jKR4Ec { /* Suggested keywords thumbnails */
+    border-radius: /*[[border-radius]]*/;
+  }
 }
