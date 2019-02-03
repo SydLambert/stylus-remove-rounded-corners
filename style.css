@@ -32,12 +32,6 @@
 .H73aad { /* "Claim this knowledge panel" button */
     border-radius: 2px;
 }
-.cv2VAd { /* Small top info cards relevant to search */
-    border-radius: 2px;
-}
-.Mw2I7 { /* Small top info cards relevant to search (imageless) */
-    border-radius: 2px;
-}
 .qmv19b { /* Top stories */
     border-radius: 2px;
 }
@@ -52,6 +46,10 @@ div.AEprdc.vk_c { /* Google Maps insert body */
 .vk_c, .vk_cxp, #rhs .fIcnad { /* Privacy reminder */
     border-radius: 2px;
 }
+.Wrsj9b { /* Sports info card */
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
 
 
 /* Google Images */
@@ -59,5 +57,40 @@ div.AEprdc.vk_c { /* Google Maps insert body */
     border-radius: 2px;
 }
 .gymTod.jKR4Ec { /* Suggested keywords thumbnails */
+    border-radius: 2px;
+}
+.cv2VAd { /* Small top info cards relevant to search */
+    border-radius: 2px;
+}
+.Mw2I7 { /* Small top info cards relevant to search (imageless) */
+    border-radius: 2px;
+}
+
+/* Google News */
+.gAl5If.nID9nc { /* Headline cards */
+    border-radius: 2px;
+}
+.NiLAwe { /* Generated headline cards */
+    border-radius: 2px;
+}
+.gb_gf { /* Search bar */
+    border-radius: 2px;
+}
+.YDRMcc { /* Side info cards */
+    border-radius: 2px;
+}
+.d7hoq { /* Article thumbnails */
+    border-radius: 2px;
+}
+.MQsxIb.Fm1jeb .AZtY5d { /* Small article thumbnails */
+    border-radius: 2px;
+}
+.To2ZZb.hpDt6e { /* Topic suggestions */
+    border-radius: 2px;
+}
+.SFllF { /* Navbar selected */
+    border-radius: 0px 2px 2px 0px;
+}
+.ZqhUjb.MDgEWb { /* Top share buttons */
     border-radius: 2px;
 }
