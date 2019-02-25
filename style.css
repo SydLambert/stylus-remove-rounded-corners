@@ -19,6 +19,9 @@
 .minidiv .Tg7LZd { /* Search icon in search bar (when scrolling) */
     padding-right: 0px;
 }
+.Gj7ine { /* Image search thumbnail in search bar */
+    border-radius: 2px;
+}
 .sbct:first-child .suggestions-inner-container { /* Border above an autocomplete word */
     border-top: 0px;
 }
