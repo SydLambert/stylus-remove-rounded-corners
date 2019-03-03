@@ -70,7 +70,6 @@
         border-radius: /*[[border-radius]]*/;
     }
 
-
     /* Google Images */
     .zZ86of .Mw2I7 { /* Suggested keywords */
         border-radius: /*[[border-radius]]*/;
@@ -112,5 +111,79 @@
     }
     .ZqhUjb.MDgEWb { /* Top share buttons */
         border-radius: /*[[border-radius]]*/;
+    }
+
+    /* Google Account */
+    .RAYh1e{ /* Sign-in main wrapper */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .A3sRAb { /* Sign-in email box */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .nDKKZc.O0WRkf { /* Sign in button */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .GyDlGb { /* Sign-in account Selector */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .XLK0Od { /* Account settings tile */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .gb_De.gb_la { /* Account settings search */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .EhlvJf { /* Sidebar tabs */
+        border-radius: 0 /*[[border-radius]]*/ /*[[border-radius]]*/ 0;
+    }
+    .hyMrOd { /* 2FA wrapper */
+        border-radius: /*[[border-radius]]*/;
+    }
+
+    /* Google Support */
+    .page { /* Main page */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .hcfe .promoted-search__input{ /* Community search box */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .material-card{ /* Info cards */
+        border-radius: /*[[border-radius]]*/;
+    }
+    a.appbar-helpcenter-sections__link{ /* Active tab highlight corners */
+        border-left: none;
+        border-right: none;
+    }
+
+    /* Google Takeout */
+    .KC1dQ{ /* Latest archive wrapper */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .nmfOee.Rj2Mlf{ /* Latest archive download button */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .VfPpkd-LgbsSe{ /* Latest archive "Manage Archives" button */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .g81fxb:first-child{ /* Archive creator top */
+        border-top-left-radius: /*[[border-radius]]*/;
+        border-top-right-radius: /*[[border-radius]]*/;
+    }
+    .g81fxb.ROuVee{ /* Archive creator bottom */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .g81fxb:last-child, .g81fxb.ROuVee + .g81fxb{ /* Customise archive format */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .I7OXgf{ /* Content options/formats popup */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .g81fxb:last-child { /* Customize archive format bottom */
+        border-bottom-left-radius: /*[[border-radius]]*/;
+        border-bottom-right-radius: /*[[border-radius]]*/;
+    }
+    .JaX6Fb, .g81fxb:last-child{ /* Archive creation placeholder */
+        border-radius: /*[[border-radius]]*/;
+        border-bottom-left-radius: /*[[border-radius]]*/;
+        border-bottom-right-radius: /*[[border-radius]]*/;
     }
 }
