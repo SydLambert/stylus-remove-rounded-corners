@@ -6,6 +6,9 @@
     .minidiv .RNNXgb { /* Search bar (when scrolling) */
         border-radius: /*[[border-radius]]*/;
     }
+    .sbibod { /* Search bar when in category tab */
+        border-radius: /*[[border-radius]]*/;
+    }
     .aajZCb { /* Autocomplete suggestions */
         border-radius: /*[[border-radius]]*/;
     }
@@ -53,6 +56,18 @@
     .Wrsj9b { /* Sports info card */
         border-top-left-radius: /*[[border-radius]]*/;
         border-top-right-radius: /*[[border-radius]]*/;
+    }
+    .RAYh1e{ /* Google Account sign in wrapper */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .A3sRAb { /* Google Account sign in email box */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .nDKKZc.O0WRkf { /* Google Account sign in button */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .GyDlGb { /* Google Account sign in account selector */
+        border-radius: /*[[border-radius]]*/;
     }
 
 
