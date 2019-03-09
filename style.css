@@ -15,7 +15,7 @@
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
 }
-.emcav.emcat .RNNXgb { /* Search bar when an autocomplete word shows */
+.minidiv .emcav.emcat .RNNXgb, .emcav.emcat .RNNXgb { /* Search bar when an autocomplete word shows */
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
 }
