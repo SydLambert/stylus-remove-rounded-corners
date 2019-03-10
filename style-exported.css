@@ -1,4 +1,7 @@
 @-moz-document domain("google.com") {
+    /* Square Google logo */
+    /*[[square-logo]]*/
+
     /* Google Search */
     .RNNXgb { /* Search bar */
         border-radius: /*[[border-radius]]*/;
