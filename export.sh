@@ -9,6 +9,6 @@ cat > $FILE <<- END
 
 END
 
-sed "s/^/    /;s/2px/\/\*\[\[border-radius\]\]\*\//g"  style.css>>$FILE
+sed "s/^/    /;s/2px/\/\*\[\[border-radius\]\]\*\//g" style.css >> $FILE
 
-echo "}">>$FILE
+echo "\n}">>$FILE
