@@ -60,6 +60,9 @@
         border-top-left-radius: /*[[border-radius]]*/;
         border-top-right-radius: /*[[border-radius]]*/;
     }
+    .cF4V5c { /* "More" search categories box */
+        border-radius: /*[[border-radius]]*/;
+    }
     .RAYh1e{ /* Google Account sign in wrapper */
         border-radius: /*[[border-radius]]*/;
     }
@@ -72,7 +75,7 @@
     .GyDlGb { /* Google Account sign in account selector */
         border-radius: /*[[border-radius]]*/;
     }
-
+    
     /* Google Images */
     .zZ86of .Mw2I7 { /* Suggested keywords */
         border-radius: /*[[border-radius]]*/;
@@ -86,7 +89,10 @@
     .Mw2I7 { /* Small top info cards relevant to search (imageless) */
         border-radius: /*[[border-radius]]*/;
     }
-
+    .lU8dJf { /* Inline image related searches */
+        border-radius: /*[[border-radius]]*/;
+    }
+    
     /* Google News */
     .gAl5If.nID9nc { /* Headline cards */
         border-radius: /*[[border-radius]]*/;
@@ -115,7 +121,7 @@
     .ZqhUjb.MDgEWb { /* Top share buttons */
         border-radius: /*[[border-radius]]*/;
     }
-
+    
     /* Google Account */
     .RAYh1e{ /* Sign-in main wrapper */
         border-radius: /*[[border-radius]]*/;
@@ -136,12 +142,15 @@
         border-radius: /*[[border-radius]]*/;
     }
     .EhlvJf { /* Sidebar tabs */
-        border-radius: 0 /*[[border-radius]]*/ /*[[border-radius]]*/ 0;
+        border-radius: 0px /*[[border-radius]]*/ /*[[border-radius]]*/ 0px;
     }
     .hyMrOd { /* 2FA wrapper */
         border-radius: /*[[border-radius]]*/;
     }
-
+    .RZBuIb .sZwd7c { /* Top progress bar corners */
+        border-radius: 0px 0px 0px 0px;
+    }
+    
     /* Google Support */
     .page { /* Main page */
         border-radius: /*[[border-radius]]*/;
@@ -156,7 +165,7 @@
         border-left: none;
         border-right: none;
     }
-
+    
     /* Google Takeout */
     .KC1dQ{ /* Latest archive wrapper */
         border-radius: /*[[border-radius]]*/;
@@ -189,4 +198,32 @@
         border-bottom-left-radius: /*[[border-radius]]*/;
         border-bottom-right-radius: /*[[border-radius]]*/;
     }
-}
+    
+    /* Google Drive */
+    .gb_Be { /* Search bar */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .gb_fa { /* G-Suite badge */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .a-D-gc-wKOTTc .a-ec-Gd button.RTMQvb { /* +New button */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .a-dkl3Ye .a-U-J { /* Left sidebar folder buttons */
+        border-radius: 0px /*[[border-radius]]*/ /*[[border-radius]]*/ 0px;
+    }
+    .a-dkl3Ye .L202Xe { /* Quick Access files */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .a-dkl3Ye .a-w { /* Context menu */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .a-dkl3Ye .o-Yc-o-T:hover{ /* Breadcrumbs */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .a-dkl3Ye .a-l-S-Pc-w-d.h-R-w-d-W, .a-dkl3Ye .a-l-S-Pc-w-d.h-R-w-d-pb{ /* Focused breadcrumb */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .a-b-Tb-j { /* Preview error */
+        border-radius: /*[[border-radius]]*/;
+    }}
