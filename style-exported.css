@@ -226,4 +226,32 @@
     }
     .a-b-Tb-j { /* Preview error */
         border-radius: /*[[border-radius]]*/;
-    }}
+    }
+    
+    /* Google Keep */
+    .gb_ga { /* GSuite badge */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .IZ65Hb-n0tgWb{ /* "Take a note..." box */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .IZ65Hb-TBnied{ /* "Take a note..." box (inner) */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .aSVJYc-G0jgYd-ZMv3u{ /* Search bar */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .XKSfm-L9AdLc .IZ65Hb-n0tgWb .Ng57nc{ /* Note preview inner top */
+        border-radius: /*[[border-radius]]*/ /*[[border-radius]]*/ 0 0;
+    }
+    .XKSfm-L9AdLc .IZ65Hb-n0tgWb .Ng57nc + .IZ65Hb-TBnied{ /* Note preview inner bottom */
+        border-radius: 0 0 /*[[border-radius]]*/ /*[[border-radius]]*/;
+    }
+    .Q0hgme-fmcmS-LgbsSe{ /* Note preview close button */
+        border-radius: /*[[border-radius]]*/;
+    }
+    li.xl07Ob-ibnC6b{ /* Sidebar buttons */
+        border-radius: 0 /*[[border-radius]]*/ /*[[border-radius]]*/ 0;
+    }
+
+}

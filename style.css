@@ -223,3 +223,29 @@ a.appbar-helpcenter-sections__link{ /* Active tab highlight corners */
 .a-b-Tb-j { /* Preview error */
     border-radius: 2px;
 }
+
+/* Google Keep */
+.gb_ga { /* GSuite badge */
+    border-radius: 2px;
+}
+.IZ65Hb-n0tgWb{ /* "Take a note..." box */
+    border-radius: 2px;
+}
+.IZ65Hb-TBnied{ /* "Take a note..." box (inner) */
+    border-radius: 2px;
+}
+.aSVJYc-G0jgYd-ZMv3u{ /* Search bar */
+    border-radius: 2px;
+}
+.XKSfm-L9AdLc .IZ65Hb-n0tgWb .Ng57nc{ /* Note preview inner top */
+    border-radius: 2px 2px 0 0;
+}
+.XKSfm-L9AdLc .IZ65Hb-n0tgWb .Ng57nc + .IZ65Hb-TBnied{ /* Note preview inner bottom */
+    border-radius: 0 0 2px 2px;
+}
+.Q0hgme-fmcmS-LgbsSe{ /* Note preview close button */
+    border-radius: 2px;
+}
+li.xl07Ob-ibnC6b{ /* Sidebar buttons */
+    border-radius: 0 2px 2px 0;
+}
