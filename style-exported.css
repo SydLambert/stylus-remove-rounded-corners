@@ -200,8 +200,17 @@
     }
     
     /* Google Drive */
-    .gb_Be { /* Search bar */
+    .gb_Be,.gb_Qe { /* Search bar */
         border-radius: /*[[border-radius]]*/;
+    }
+    .gb_Qe button:hover svg{ /* Search bar arrow dropdown button */
+        border-radius: /*[[border-radius]]*/;   
+    }
+    .gb_Qe button svg{ /* Search bar arrow dropdown button padding fix */
+        margin: 3px -1px 3px 3px;
+    }
+    .gb_Qe.gb_jf{ /* Search bar with dropdown */
+        border-radius: /*[[border-radius]]*/ /*[[border-radius]]*/ 0 0;
     }
     .gb_fa { /* G-Suite badge */
         border-radius: /*[[border-radius]]*/;
@@ -212,7 +221,7 @@
     .a-dkl3Ye .a-U-J { /* Left sidebar folder buttons */
         border-radius: 0px /*[[border-radius]]*/ /*[[border-radius]]*/ 0px;
     }
-    .a-dkl3Ye .L202Xe { /* Quick Access files */
+    .a-dkl3Ye .L202Xe, .a-dkl3Ye .Onyn4c { /* Quick Access files */
         border-radius: /*[[border-radius]]*/;
     }
     .a-dkl3Ye .a-w { /* Context menu */
@@ -225,6 +234,18 @@
         border-radius: /*[[border-radius]]*/;
     }
     .a-b-Tb-j { /* Preview error */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .a-nEbBXb .a-c-d { /* Right breadcrumb bar buttons */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .Ewn2Sd:not(.C0fwCb):hover{ /* Top bar support button */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .gb_y:hover{ /* Google Apps button */
+        border-radius: /*[[border-radius]]*/;
+    }
+    .Kk7lMc-QWPxkf-d .Yb-Il-d-c-Nd{ /* Lower-right sidebar toggle button */
         border-radius: /*[[border-radius]]*/;
     }
     
