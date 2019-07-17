@@ -24,13 +24,13 @@
         border-bottom-right-radius: /*[[border-radius]]*/;
     }
     .minidiv .Tg7LZd { /* Search icon in search bar (when scrolling) */
-        padding-right: 0px;
+        padding-right: 0;
     }
     .Gj7ine { /* Image search thumbnail in search bar */
         border-radius: /*[[border-radius]]*/;
     }
     .sbct:first-child .suggestions-inner-container { /* Border above an autocomplete word */
-        border-top: 0px;
+        border-top: 0;
     }
     .kp-blk { /* "Knowledge panel" (large right info card) */
         border-radius: /*[[border-radius]]*/;
@@ -116,7 +116,7 @@
         border-radius: /*[[border-radius]]*/;
     }
     .SFllF { /* Navbar selected */
-        border-radius: 0px /*[[border-radius]]*/ /*[[border-radius]]*/ 0px;
+        border-radius: 0 /*[[border-radius]]*/ /*[[border-radius]]*/ 0;
     }
     .ZqhUjb.MDgEWb { /* Top share buttons */
         border-radius: /*[[border-radius]]*/;
@@ -142,13 +142,13 @@
         border-radius: /*[[border-radius]]*/;
     }
     .EhlvJf { /* Sidebar tabs */
-        border-radius: 0px /*[[border-radius]]*/ /*[[border-radius]]*/ 0px;
+        border-radius: 0 /*[[border-radius]]*/ /*[[border-radius]]*/ 0;
     }
     .hyMrOd { /* 2FA wrapper */
         border-radius: /*[[border-radius]]*/;
     }
     .RZBuIb .sZwd7c { /* Top progress bar corners */
-        border-radius: 0px 0px 0px 0px;
+        border-radius: 0 0 0 0;
     }
     
     /* Google Support */
@@ -219,7 +219,7 @@
         border-radius: /*[[border-radius]]*/;
     }
     .a-dkl3Ye .a-U-J { /* Left sidebar folder buttons */
-        border-radius: 0px /*[[border-radius]]*/ /*[[border-radius]]*/ 0px;
+        border-radius: 0 /*[[border-radius]]*/ /*[[border-radius]]*/ 0;
     }
     .a-dkl3Ye .L202Xe, .a-dkl3Ye .Onyn4c { /* Quick Access files */
         border-radius: /*[[border-radius]]*/;
@@ -274,5 +274,7 @@
     li.xl07Ob-ibnC6b{ /* Sidebar buttons */
         border-radius: 0 /*[[border-radius]]*/ /*[[border-radius]]*/ 0;
     }
-
+    .IVT3Ae-WsjYwc-UMrnmb{ /* Dark mode box */
+        border-radius: /*[[border-radius]]*/;
+    }
 }
